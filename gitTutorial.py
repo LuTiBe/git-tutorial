@@ -1,3 +1,4 @@
 print("Hello World")
 
-print("Neue Funktion hinzugefügt.")
+# Fehler eingebaut
+print("Neue Funktion hinzugefügt." + )
