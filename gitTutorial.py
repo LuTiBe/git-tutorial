@@ -3,8 +3,12 @@ name = "Lukas"
 print("Hello. My name is {}".format(name))
 
 # Ticket-100
-def ausgabe(name):
-    print(f"Wie geht es dir heute {name}?")
+def ausgabe(src):
+    print(f"Das Ergebniss ist {src}!")
 
 
-ausgabe(name)
+
+def calculate(num1, num2):
+    return num1 + num2
+
+ausgabe(calculate(5, 10))
