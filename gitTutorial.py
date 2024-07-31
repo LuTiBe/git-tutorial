@@ -1,4 +1,1 @@
-print("Hello World")
-
-# Fehler eingebaut
-print("Neue Funktion hinzugefügt." + )
+print("Hello. My name is NAME")
