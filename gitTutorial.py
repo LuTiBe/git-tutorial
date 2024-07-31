@@ -1,1 +1,3 @@
-print("Hello. My name is NAME")
+name = "Lukas"
+
+print("Hello. My name is {}".format(name))
